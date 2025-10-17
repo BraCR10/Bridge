@@ -1,1 +1,3 @@
-# Brige
+# Java Bridge Pattern Implementation
+
+
