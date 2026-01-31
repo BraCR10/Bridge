@@ -3,7 +3,7 @@ package client;
 import weapons.*;
 import accessories.*;
 import java.util.Scanner;
-
+//Test
 public class console {
     private Weapon currentWeapon;
     private Scanner scanner;
